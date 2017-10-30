@@ -8,6 +8,9 @@ The fundamental building block of HTML is what's called a _tag_. Tags allow web 
 <tag-text>
 ```
 
+edit
+edit
+
 It's just some text wrapped in `<` and `>` characters. The most basic tag is the "break" tag. This is represented in HTML as `<br>` and tells the browser to create a new line. Over this lesson and into CSS we are going to create a simple Profile page.
 
 <iframe height='265' scrolling='no' title='intro br' src='//codepen.io/joemburgess/embed/MoJLVL/?height=265&theme-id=0&default-tab=html,result&embed-version=2&editable=true' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/joemburgess/pen/MoJLVL/'>intro br</a> by Joe Burgess (<a href='https://codepen.io/joemburgess'>@joemburgess</a>) on <a href='https://codepen.io'>CodePen</a>.
@@ -39,3 +42,5 @@ While most of writing HTML is writing tags like the ones above, there are some s
 You'll notice that the web page looks identical to the one above. If you look at the code you will see three new tags: `<html>`, `<head>`, and `<body>`. The `<html>` tag tells the browser "hey contained in here is a bunch of HTML code". The `<head>` tag we don't really use just yet, but it will contain our references to outside bits of code such as CSS or Javascript. Finally, the `<body>` tag tells the browser "contained in here is the stuff I actually want you to show the user". 
 
 In many future examples, we will omit these `html`, `body` and `head` tags due to brevity. Be sure to remember them when you create your own websites though!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-syntax-overview'>Basics of HTML</a> on Learn.co and start learning to code for free.</p>
