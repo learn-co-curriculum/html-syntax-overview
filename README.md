@@ -16,13 +16,13 @@ going to take a closer look at how it works.
 
 The fundamental building block of HTML is a __tag__. Tags allow web developers
 to tell things to the browser like "make this text a header" or "include this
-image". Tags all follow the same format like this:
+image". Tags all follow the same format as this:
 
 ```html
 <tag-text>
 ```
 
-It's just some text wrapped in __<__ and __>__ characters. The most basic tag is
+It's just some text wrapped in `<` and `>` characters. The most basic tag is
 the "break" tag. This is represented in HTML as `<br>` and tells the browser to
 create a new line. Over the next few lessons, we are going to create a simple
 profile page for a brand-new Flatiron student.
@@ -117,3 +117,5 @@ overall HTML __document structure__.
 
 All right, now we’re rolling with HTML. Let’s add something more interesting. Go
 on to the next lesson to see how we can start pulling images into our webpages.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/html-syntax-overview'>Basics of HTML</a> on Learn.co and start learning to code for free.</p>
