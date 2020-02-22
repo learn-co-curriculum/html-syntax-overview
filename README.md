@@ -56,7 +56,7 @@ Most HTML tags work just like this:
 
 So when we talk about “what kind of tag we’re using,” what are our options? How
 many HTML tags are there? There are a lot! Another useful example is the
-__paragraph__ tag which is represented with a `<p>`. The paragraph tag tells the
+__paragraph__ tag which is represented with a `<p>` and `</p>`. The paragraph tag tells the
 browser the text in between it is a paragraph and puts two new lines above and
 below the text.
 
