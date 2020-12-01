@@ -60,7 +60,7 @@ __paragraph__ tag which is represented with a `<p>` and `</p>`. The paragraph ta
 browser the text in between it is a paragraph and puts two new lines above and
 below the text.
 
-<iframe height='265' scrolling='no' title='p tag' src='//codepen.io/joemburgess/embed/owBmQL/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/joemburgess/pen/owBmQL/'>p tag</a> by Joe Burgess (<a href='https://codepen.io/joemburgess'>@joemburgess</a>) on <a href='https://codepen.io'>CodePen</a>.
+<iframe height='265' scrolling='no' title='p tag' src='//codepen.io/joemburgess/embed/owBmQL/?height=265&theme-id=0&default-tab=html,result&embed-version=2&editable=true' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/joemburgess/pen/owBmQL/'>p tag</a> by Joe Burgess (<a href='https://codepen.io/joemburgess'>@joemburgess</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
 When we’ve put all these pieces together—opening tag, content, closing tag—we
